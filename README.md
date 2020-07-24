@@ -6,3 +6,5 @@ During the course, I will post (partial) lecture notes to this site. The main do
 Try to regularly pull down updated versions of the document (otherwise you'll be editing something that is out of date) and to be regular with sending your pull requests to incorporate the improvements (otherwise other people won't see them and might duplicate things).
 
 More information about the process is on Canvas in the lecture 1 page.
+
+sohan
